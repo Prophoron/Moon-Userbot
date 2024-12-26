@@ -21,4 +21,4 @@ aiofiles
 pySmartDL
 lexica-api
 #extra
-poppler
+
